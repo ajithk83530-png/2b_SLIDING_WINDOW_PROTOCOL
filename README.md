@@ -16,9 +16,8 @@ Server:
 
 
 ## OUTPUT
-Client:
+
 <img width="862" height="506" alt="Screenshot 2026-05-11 161210" src="https://github.com/user-attachments/assets/c52093c2-ede0-404c-9f98-bc879e693e3b" />
-Server:
 <img width="808" height="743" alt="Screenshot 2026-05-11 161225" src="https://github.com/user-attachments/assets/8c268bca-b6ca-4847-9467-e20b32dbfb05" />
 
 ## RESULT
